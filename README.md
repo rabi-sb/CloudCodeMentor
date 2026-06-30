@@ -66,3 +66,18 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed by **Rabi SB**
+------------------------------------------
+## Project Progress
+
+| Sprint | Status |
+|---------|--------|
+| Sprint 1 – Infrastructure  | ✅ Completed |
+| Sprint 2 – Backend         | ⏳ Planned |
+| Sprint 3 – Authentication  | ⏳ Planned |
+| Sprint 4 – Database        | ⏳ Planned |
+| Sprint 5 – Azure Functions | ⏳ Planned |
+| Sprint 6 – AI Integration  | ⏳ Planned |
+| Sprint 7 – Frontend        | ⏳ Planned |
+| Sprint 8 – Deployment      | ⏳ Planned |
+| Sprint 9 – Testing         | ⏳ Planned |
+| Sprint 10 – Production     | ⏳ Planned |
