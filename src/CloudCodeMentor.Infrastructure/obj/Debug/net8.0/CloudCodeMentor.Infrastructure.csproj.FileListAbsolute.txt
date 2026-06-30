@@ -1,0 +1,16 @@
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\bin\Debug\net8.0\CloudCodeMentor.Infrastructure.deps.json
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\bin\Debug\net8.0\CloudCodeMentor.Infrastructure.dll
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\bin\Debug\net8.0\CloudCodeMentor.Infrastructure.pdb
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\bin\Debug\net8.0\CloudCodeMentor.Domain.dll
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\bin\Debug\net8.0\CloudCodeMentor.Domain.pdb
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.AssemblyInfo.cs
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.sourcelink.json
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCod.4466059C.Up2Date
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.dll
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\refint\CloudCodeMentor.Infrastructure.dll
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\CloudCodeMentor.Infrastructure.pdb
+C:\Users\rbida\OneDrive - CBW College Berufliche Weiterbildung GmbH\Desktop\CloudCodeMentor\src\CloudCodeMentor.Infrastructure\obj\Debug\net8.0\ref\CloudCodeMentor.Infrastructure.dll

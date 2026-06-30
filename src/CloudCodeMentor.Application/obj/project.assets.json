@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CloudCodeMentor.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CloudCodeMentor.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudCodeMentor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudCodeMentor.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CloudCodeMentor.Domain/CloudCodeMentor.Domain.csproj",
+      "msbuildProject": "../CloudCodeMentor.Domain/CloudCodeMentor.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CloudCodeMentor.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rbida\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rbida\\OneDrive - CBW College Berufliche Weiterbildung GmbH\\Desktop\\CloudCodeMentor\\src\\CloudCodeMentor.Application\\CloudCodeMentor.Application.csproj",
+      "projectName": "CloudCodeMentor.Application",
+      "projectPath": "C:\\Users\\rbida\\OneDrive - CBW College Berufliche Weiterbildung GmbH\\Desktop\\CloudCodeMentor\\src\\CloudCodeMentor.Application\\CloudCodeMentor.Application.csproj",
+      "packagesPath": "C:\\Users\\rbida\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rbida\\OneDrive - CBW College Berufliche Weiterbildung GmbH\\Desktop\\CloudCodeMentor\\src\\CloudCodeMentor.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rbida\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\rbida\\OneDrive - CBW College Berufliche Weiterbildung GmbH\\Desktop\\CloudCodeMentor\\src\\CloudCodeMentor.Domain\\CloudCodeMentor.Domain.csproj": {
+              "projectPath": "C:\\Users\\rbida\\OneDrive - CBW College Berufliche Weiterbildung GmbH\\Desktop\\CloudCodeMentor\\src\\CloudCodeMentor.Domain\\CloudCodeMentor.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

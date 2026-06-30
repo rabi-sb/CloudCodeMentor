@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0EE96E8E-641A-4363-9535-06190ACF5926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCodeMentor.API", "src\CloudCodeMentor.API\CloudCodeMentor.API.csproj", "{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCodeMentor.Domain", "src\CloudCodeMentor.Domain\CloudCodeMentor.Domain.csproj", "{BB6A95C4-F785-4011-84D7-1CEA0A826072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCodeMentor.Application", "src\CloudCodeMentor.Application\CloudCodeMentor.Application.csproj", "{D1D88E15-24A3-4A72-8595-9BB57F12D745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCodeMentor.Infrastructure", "src\CloudCodeMentor.Infrastructure\CloudCodeMentor.Infrastructure.csproj", "{015B84DF-A635-42C0-BD8C-3DFA0DC0719F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6839EF0D-8A7D-48BC-B56F-8ECEDDD173FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCodeMentor.Tests", "tests\CloudCodeMentor.Tests\CloudCodeMentor.Tests.csproj", "{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6A95C4-F785-4011-84D7-1CEA0A826072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6A95C4-F785-4011-84D7-1CEA0A826072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6A95C4-F785-4011-84D7-1CEA0A826072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6A95C4-F785-4011-84D7-1CEA0A826072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D88E15-24A3-4A72-8595-9BB57F12D745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D88E15-24A3-4A72-8595-9BB57F12D745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D88E15-24A3-4A72-8595-9BB57F12D745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D88E15-24A3-4A72-8595-9BB57F12D745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015B84DF-A635-42C0-BD8C-3DFA0DC0719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015B84DF-A635-42C0-BD8C-3DFA0DC0719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015B84DF-A635-42C0-BD8C-3DFA0DC0719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015B84DF-A635-42C0-BD8C-3DFA0DC0719F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D23B736-39BE-4A78-A435-E1E0FDDD9FE0} = {0EE96E8E-641A-4363-9535-06190ACF5926}
+		{BB6A95C4-F785-4011-84D7-1CEA0A826072} = {0EE96E8E-641A-4363-9535-06190ACF5926}
+		{D1D88E15-24A3-4A72-8595-9BB57F12D745} = {0EE96E8E-641A-4363-9535-06190ACF5926}
+		{015B84DF-A635-42C0-BD8C-3DFA0DC0719F} = {0EE96E8E-641A-4363-9535-06190ACF5926}
+		{CA8F33E4-F43A-4DA4-9EE4-1918A6F89D77} = {6839EF0D-8A7D-48BC-B56F-8ECEDDD173FB}
+	EndGlobalSection
+EndGlobal
